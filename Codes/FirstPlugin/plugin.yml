@@ -1,0 +1,7 @@
+name: FirstPlugin
+main: Me.kurama200.FirstPlugin
+version: 0.5
+commands:
+ Hello:
+  description:  It replies with responding to the player! 
+  usage: /<command>
